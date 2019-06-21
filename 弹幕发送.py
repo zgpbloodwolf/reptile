@@ -20,6 +20,7 @@ header = {
 #请求
 datalist=['233']
 rnd='1561036415'
+#房间号
 roomid='7049047'
 for datas in datalist:
     data = dm(datas,rnd,roomid)
